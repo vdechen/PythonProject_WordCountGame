@@ -6,20 +6,20 @@ Rules: 2 players are asked to guess how many times a word is in a song. The clos
 
 # Steps
 Python code was developed to allow the following actions:
-- Display a numbered dictionary of the available songs (Brazilian MPB music) for the player to choose from
-- Create a dictionary of lyrics that match the numbers of songs previously displayed
-- Ask the player to choose a song number 
-- Display the chosen song name 
-- Match the chosen song number to its lyrics
-- Ask for players' names 
-- Generate a random word from a song  
-- Clean lyrics and return the frequency of each word in it in a dictionary.
-- Ask players to guess the random word frequency in the song
-- Display players turns and asks each how many times the same word is in a song. 
-- Check which player got closer do the right answer and score points 
-- Display the correct answer for the round and the current score for each player. 
-- Ask if players want to (1) continue or (2) end the game 
-- If (1), a new random word is generated and players switch turns untill they choose to end the game.
+- Display a numbered dictionary of the available songs (Brazilian MPB music) for the player to choose from;
+- Create a dictionary of lyrics that match the numbers of songs previously displayed;
+- Ask the player to choose a song number;
+- Display the chosen song name;
+- Match the chosen song number to its lyrics;
+- Ask for players' names;
+- Generate a random word from a song;  
+- Clean lyrics and return the frequency of each word in it in a dictionary;
+- Ask players to guess the random word frequency in the song;
+- Display players turns and asks each how many times the same word is in a song; 
+- Check which player got closer do the right answer and score points;
+- Display the correct answer for the round and the current score for each player;
+- Ask if players want to (1) continue or (2) end the game;
+- If (1), a new random word is generated and players switch turns untill they choose to end the game;
 - If (2), displays final score and winner.  
 
 # Conclusion
