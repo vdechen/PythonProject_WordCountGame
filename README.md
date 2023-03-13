@@ -15,11 +15,11 @@ Python code was developed to allow the following actions:
 - Generate a random word from a song;  
 - Clean lyrics and return the frequency of each word in it in a dictionary;
 - Ask players to guess the random word frequency in the song;
-- Display players turns and asks each how many times the same word is in a song; 
-- Check which player got closer do the right answer and score points;
+- Display players' turns and asks each how many times the same word is in a song; 
+- Check which player got closer to the right answer and score points;
 - Display the correct answer for the round and the current score for each player;
 - Ask if players want to (1) continue or (2) end the game;
-- If (1), a new random word is generated and players switch turns untill they choose to end the game;
+- If (1), a new random word is generated and players switch turns until they choose to end the game;
 - If (2), displays final score and winner.  
 
 # Conclusion
