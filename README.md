@@ -5,7 +5,7 @@ Rules: 2 players are asked to guess how many times a word is in a song. The clos
 - Python 
 
 # Steps
-Python code was developed to allow the following actions:
+A Python code was developed to allow the following actions:
 - Display a numbered dictionary of the available songs (Brazilian MPB music) for the player to choose from;
 - Create a dictionary of lyrics that match the numbers of songs previously displayed;
 - Ask the player to choose a song number;
